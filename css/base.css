@@ -1,0 +1,38 @@
+@charset "utf-8";
+#footer {
+	width:100%;
+	height:200px;
+	background-color:rgb(80,80,80)/*rgb(103,103,103)*/;
+	margin:0 auto;
+	}
+.copyright { 
+	clear:both; 
+	text-align:center;
+	padding-top:50px;
+	font-size:15px;
+	} 
+#links,#right { color:rgb(203,203,203);margin-top:20px;}
+#right {font-size:12px;}
+.copyright a:link {	color:rgb(203,203,203);text-decoration:none;}
+.copyright a:visited {color:rgb(203,203,203);text-decoration:none;}
+.copyright a:hover {color:white;text-decoration:none;}
+.copyright a:active {color:white;text-decoration:none;}
+
+body {
+	width:85%;
+	margin:0 auto;
+	background:#fff;
+	font:14px/1.5 arial,tahoma, \5b8b\4f53;
+	font-family:'Microsoft YaHei';
+	font-size:14px;
+	line-height:1.6em;
+	}
+.navfont {
+	font:18px/1.5 arial,tahoma, \5b8b\4f53;
+	font-family:'Microsoft YaHei';
+	font-size:18px;
+	line-height:1.6em;
+	}
+	
+
+
